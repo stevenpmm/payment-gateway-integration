@@ -3,6 +3,8 @@ Switch Off error reporting in php.ini
 
 For clarity a flat file structure has been created.
 
+NO FRAMEWORKS USED.  Free hand coded.
+
 MYSQL_PDO  required
 
 file PayPal.log needs apache write permissions
@@ -16,10 +18,7 @@ CREATE TABLE `request-response` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
-Sorry, no time for unit tests !
-
 Simply run index.php from web server root ! 
-
 
 DEVELOPED IN LINUX UBUNTU V 12.04 
 
@@ -28,7 +27,20 @@ I am using sandbox test credentials provided by both Paypal and Braintree.
 ISSUES: PAYPAL credit card validation often fails with 400 or 500 errors. 
 I have NOT used a real credit card. 
 
+Sorry, no time for unit tests !
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 How would you handle security for saving credit cards?
+
+Storing:
+Rijndael Encryption (AES) with base64_encoding
+
+Retrieving:
+Rijndael Decryption (AES) with base64_decoding
+
+
+SSL (https) for data transfer to server.
+
+
 
