@@ -1,0 +1,372 @@
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"55"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015On4MrNxhsXbA7vZt5lErXuVy8Kt6AJ7F4KjUQ.3Il-A
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422739363
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"55"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015PgTRfh1Yaqh-0gqaSMxaPZPFg-NN0Y0bIrb8cFCE14k
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422739868
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"hh jj"}}]},"transactions":[{"amount":{"currency":"USD","total":"55"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015.QYKDH.vPxXZiw04K8qb09c3P30AfbR6X5XcT8wbbsI
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422739936
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aaaa","last_name":"bbbb"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015w3HDqSKhKelMzOCaztWzz0OqyHkf1bVCoKmrS6kIEYw
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422742712
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aaaa","last_name":"bbbb"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015nT6O1VNs148hQkbRTNkArZv1srDobiAr2YaJ35.fG8s
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422742881
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aaaa","last_name":"bbbb"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015ZjWY8vlWCpkkY5XYn7j1hdzvXRa7ONSn3e3pDFMSmAc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422743075
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aaaa","last_name":"bbbb"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015uuPjV0U2qwn9LUpHFTmMERkr2-bMfWvGU5pZd0BMkdE
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422743116
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"23"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015GqH8kx-yU842Nsb5e9DTSZhwoDbO141ZGUt.BbV8PUI
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422743431
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"23"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015fWiiqzzcHxZj3dWNnHCrQ5x5LL8Q8ngw7gCAMBA-bhc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422743903
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015QzoGOm4-srr1ps1DhMY5Uxf97smGMQsuAQnQaeaTQNc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422744140
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015gvc43MFTyWjhiAYygcg9Ld-1zCQtVx0BjDz0B73CDMc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422744484
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"q"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015g2SBZFpXRmVKX1BJBn16Z0unZnkKI9sICbU7mR88RsM
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422746564
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A0157Q6FvxtO.Lt.THl9HK9f0X7aejWG1L3vaIqWAsxEo9k
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422747941
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015SbmgJNJbmRXk9rdJ9Mh8qrmYsUQu1wWLUJA1Yx1C5YY
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422784229
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"aa","last_name":"aa"}}]},"transactions":[{"amount":{"currency":"USD","total":"44"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A0151BCAVtwdkNMNgfjuWQiyAsG9A8Q3acZqnsaX0HBMhHw
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422784953
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"44"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015TxrrW6CGbcOanXlmDK.956I52bpT41Ig4DxPMD4Cvt4
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422788076
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015nm6WbhSEcDoY0gL.p7jMrzv6923HVXfkR1nGX9Qm2UY
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422790735
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"77"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015Vp82R8jbYpFQkGChPvQNk7OpC33IsvId-4O0na4-OP8
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422792846
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"77"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015Z-O3Kmi6booNQ9NyDFFq8hgaZ9XRsmOMTNZp4U1FVfg
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422793128
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105101","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015RVutg7qaRU3Pchb7dIK54J7JCFc-hAh5kiPD80iBM9E
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422793431
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015TEn.mwnzsiZoLFG.WPiwixWRvDIHn.wMIxihRcxtCWQ
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422794105
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015Ha5c5nIbI4u5Zx1aYXlpWdYiCm6ij-BE1sqXgVyT1yc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422794148
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015SuclfZmX.ZVXmrc0tLFmHWepnxUIG6chR0QGzOlZeKc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422795164
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015poZXrRq8IMW9w8D6lMK-fnBtAUaRJ7S84ZiBxiCRoEw
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422797207
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2015","cvv2":"012","first_name":"aa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.2-1ubuntu4.21;Bit=32;OS=Linux_2.6.32-33-generic;Machine=i686;Openssl=0.9.8k;curl=7.19.7)
+PPHttpConnection: Adding header Authorization: Bearer A015hStgL-L.b3GRPep1HhdJlT8Hrs8hPiR27P-tpKBsNtc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422797307
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015ZVyuOFLGF67o-WUa4rq8PeA7iQh49JLCXDJEPlJmFrQ
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422281866
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A0159QXsChaeFkUT0R56KAhFZXOctXAMG05eAqIjzpykk2c
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422282322
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"aaa","last_name":"aaaa"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015qU3sA4e6eUksN.nEjkNMSYUq19Fr7EXTM9bPCPAOIto
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422282381
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015B.AsNyojJcE96pXOtdKE4nFyXgwPpitSzxoQZAw0WjE
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422292605
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015lCw1ZASltMnhtTkzcf-2aekZ9WFID.9Cn4.VCZu-4j0
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422292693
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015X-WlL1flv0DQvJTqHh4Nyj5fg41VySUqFyaGTjxrlPg
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422292876
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic RUJXS2psRUxLTVlxUk5RNnNZdkZvNjRGdGFSTFJSNUJkSEVFU21oYTQ5VE06RU80MjJkbjNnUUxnRGJ1d3FUanpyRmdGdGFSTFJSNUJkSEVFU21oYTQ5VE0=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015c41mK9U-HNnokYcDQcIqKLhuGxpYlxQpFtG.SPT8awY
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422294136
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"05","expire_year":"2015","cvv2":"012","first_name":"qq","last_name":"qq"}}]},"transactions":[{"amount":{"currency":"USD","total":"33"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015AMM14Z5b51VSyF3AzCTwoqG3IlalXvdVbSsKi8FPXUw
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422295198
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A0157nPhrIGcavpQfxrDBMwvOMGH5TSFMOk.6suEtD9C3i0
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422295576
+PPHttpConnection: Connecting to /v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to /v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"4417119669820331","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015l7NMLSVJlQ4lC7Jq.AmiyaSqzmYZ70Fugn7j0TKX1Hw
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422295713
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PPHttpConnection: Payload grant_type=client_credentials
+PPHttpConnection: Adding header Authorization: Basic QVFUbjBvRUNaT3ZoTmM2UWZsMEFnMzc1VW51RkJWZ2dWM3ZzT1hBU0tGbFhFUDAwZnhhNEhJZXo3aFJtcDJLaEp5ZE1SWTlSQWNuRW5VaUU6RUtuaGR3TzZxM2pwV2k0LVVScGM3MnZCdmhlWjFKR3FpN3IwanloanpDQUIxcXZpVkpJRWZXb091aUpHY2YyVXY0b2xqbjBLdDNQV2NQa3o=
+PPHttpConnection: Adding header Accept: */*
+PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"credit_card","funding_instruments":[{"credit_card":{"type":"visa","number":"5105105105105100","expire_month":"11","expire_year":"2019","cvv2":"012","first_name":"qq","last_name":"qqqq"}}]},"transactions":[{"amount":{"currency":"USD","total":"22"},"description":"Credit card payment"}]}
+PPHttpConnection: Adding header Content-Type: application/json
+PPHttpConnection: Adding header User-Agent: PayPalSDK/REST-SDK-PHP 0.5.0 (Lang=PHP;V=5.3.10-1ubuntu3.15;Bit=32;OS=Linux_3.13.0-44-generic;Machine=i686;Openssl=1.0.1;curl=7.22.0)
+PPHttpConnection: Adding header Authorization: Bearer A015DASWRJQlDghByLATY-xSZyTTOQSe0GBZO0KNYrI8exc
+PPHttpConnection: Adding header PayPal-Request-Id: Request1422296031
